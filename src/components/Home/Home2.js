@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/SANJITH-P.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -22,7 +22,7 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />Education is a journey to me and I keep seeking opportunities to grow my skills in 
+              <br />Education is a journey to me and I keep seeking opportunities to grow my skills in  I am a passionate programmer with expertise in several languages and technologies. I have honed my skills in the following areas
               <i>
                 <b className="purple"> C++, Java, HTML,CSS and Python. </b>
               </i>
@@ -31,14 +31,14 @@ function Home2() {
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                also in areas related to Software {" "}
                 <b className="purple">
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">php</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -47,13 +47,13 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="SANJITH"></img>
             </Tilt>
           </Col>
         </Row>
