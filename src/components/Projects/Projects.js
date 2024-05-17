@@ -28,7 +28,7 @@ function Projects() {
               title="DevopsFinal"              
               description="Related to a Shoe Website Shoe Showcasing Website for Nike templateFeatured product section highlighting the latest releases or best-selling models Product name, description,and price."
               ghLink="https://github.com/devopsnhc10/DevopsFinal"
-              demoLink="https://nike-shoe-store.netlify.app/product"
+              demoLink="https://nike-shoe-store.netlify.app/"
             />
           </Col>
 
