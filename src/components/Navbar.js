@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href=""
+                href="https://sanjuvil.blogspot.com/2024/05/5g-technology-revolutionizing.html/"
                 target="_blank"
                 rel="noreferrer"
               >
