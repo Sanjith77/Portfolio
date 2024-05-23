@@ -43,6 +43,27 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Tic-Tac-Toe"
+              description="Tic-Tac-Toe is a classic two-player game that is easy to learn and fun to play. It's often one of the first games.Children learn due to its simplicity, yet it also offers strategic depth that can be appreciated by players of all ages. The game is played on a 3x3 grid."
+              ghLink="https://github.com/devopsnhc10/Tic-Tac-Toe"
+              demoLink=" https://furip0x.github.io/tic_tac_toe/ "
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Weather"
+              description="The purpose of this small project is to display the current weather for a user-specified location.Pure javascript, basic exercise. The use of science and technology to forecast the atmospheric conditions for a certain place and time is known as weather forecasting.."
+              ghLink="https://github.com/devopsnhc10/Weather"
+              demoLink=" https://weather-seven-pied.vercel.app/ "
+            />
+          </Col>
           
         </Row>
       </Container>

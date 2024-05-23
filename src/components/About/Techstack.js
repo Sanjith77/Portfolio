@@ -40,7 +40,7 @@ function Techstack() {
         <SiCsharp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
+        <SiMysql />a
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
