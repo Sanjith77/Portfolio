@@ -61,7 +61,7 @@ function Projects() {
               title="Weather"
               description="The purpose of this small project is to display the current weather for a user-specified location.Pure javascript, basic exercise. The use of science and technology to forecast the atmospheric conditions for a certain place and time is known as weather forecasting.."
               ghLink="https://github.com/devopsnhc10/Weather"
-              demoLink=" https://weather-seven-pied.vercel.app/ "
+              demoLink=" http://127.0.0.1:5500/index.html "
             />
           </Col>
           
