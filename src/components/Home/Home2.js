@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />Education is a journey to me and I keep seeking opportunities to grow my skills in  I am a passionate programmer with expertise in several languages and technologies. I have honed my skills in the following areas
               <i>
-                <b className="purple">  HTML,CSS,Javascript,C++,Java. </b>
+                <b className="purple">HTML,CSS,Javascript,C++,Java. </b>
               </i>
               <br />
               <br />
@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I also apply my passion for developing projects
               with <b className="purple">php</b> and
               <i>
                 <b className="purple">
