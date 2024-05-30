@@ -19,18 +19,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and I am continuously learning.
+              
               <br />
               <br />Education is a journey to me and I keep seeking opportunities to grow my skills in  I am a passionate programmer with expertise in several languages and technologies. I have honed my skills in the following areas
               <i>
-                <b className="purple"> C++, Java, HTML,CSS and Python. </b>
+                <b className="purple">  HTML,CSS,Javascript,C++,Java. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">I stay updated on the latest trends,programming languages and industry practices. Follow tech blogs, I am excited about the future of technology </b> and
                 also in areas related to Software {" "}
                 <b className="purple">
                 </b>
