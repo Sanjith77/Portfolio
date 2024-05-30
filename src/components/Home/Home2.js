@@ -37,8 +37,8 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing projects
-              with <b className="purple">php</b> and
+              Whenever possible, I also apply my passion for developing and creation 
+              in<b className="purple">php</b> and
               <i>
                 <b className="purple">
                   {" "}
