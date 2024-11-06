@@ -21,6 +21,30 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Airline Ticket Reservation"              
+              description="This Airline Ticket Reservation system project refers to a software application or online platform that allows individuals to manage their reservations, and complete payments for airline travel. Passengers can search for available flights based on their travel preferences such as departure city, destination, travel dates, and class of service (e.g., Economy, Business, First Class). Results usually include details like flight duration, layovers, ticket prices, and available seating"
+              ghLink="https://github.com/Sanjith77/Airline-Ticket-Reservation"
+              demoLink="https://github.com/Sanjith77/Airline-Ticket-Reservation-/blob/main/Airline_Tickets_.ipynb"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Predict Password Strength using Natural Language"              
+              description="This Predict-Password-Strength-using Natural language project of predicting password strength involves building a model that can classify passwords based on their strength—typically as weak, medium, or strong. The strength of a password is determined by various factors, including its length, character variety (e.g., the inclusion of uppercase letters, lowercase letters, numbers, and special characters), and patterns that may or may not make it vulnerable to attacks."
+              ghLink="https://github.com/Sanjith77/Predict-Password-Strength-"
+              demoLink="https://github.com/Sanjith77/Predict-Password-Strength-/blob/main/Password%20Strength%20Using%20Natural%20Language.ipynb"
+            />
+          </Col>
+
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
